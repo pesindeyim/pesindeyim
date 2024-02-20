@@ -1,4 +1,4 @@
-[!MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/318764770/original/9962999b2e39dc36ac82909b714e1281085e1843/do-python-java-and-kotlin-development-and-problem-solving.jpg)
+[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/318764770/original/9962999b2e39dc36ac82909b714e1281085e1843/do-python-java-and-kotlin-development-and-problem-solving.jpg)
 <h1 align="center">Hi 👋, I'm Bilal Örgen</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
