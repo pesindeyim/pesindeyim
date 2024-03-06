@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bilal Örgen</h1>
-<h3 align="center">A passionate mobile developer from Türkiye</h3>
+<h3 align="center">A passionate developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Android Studio**
 
