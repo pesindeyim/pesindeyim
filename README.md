@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Bilal Örgen</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
 
