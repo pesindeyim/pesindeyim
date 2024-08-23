@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Örgen</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Python and Kotlin, AI, NLP, Android Studio, Qt Designer **
+- 🔭 I’m currently working on **Python and Kotlin, Django, HTML-CSS AI, NLP, Android Studio, Qt Designer **
 
 - 📫 How to reach me **bilalorgen7@gmail.com**
 
